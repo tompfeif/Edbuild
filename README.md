@@ -6,5 +6,5 @@ In order to analyze the public school funding within the US, several methods wil
 ## QGIS and Tableau
 To visualize school district data graphically, QGIS will be used to create and assemble mappings.
 
-##D3.js
+## D3.js
 To improve the attractiveness of the visualizations and customize them, D3 will be used.
